@@ -1,4 +1,4 @@
-package com.example.myapplicationexp2;
+package com.example.graphicprimitives;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -52,6 +52,7 @@ public class MyClass extends View {
         canvas.drawText("Graphic Primitives", 80, 800, paint);
     }
 }
+
 
 
 
